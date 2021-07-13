@@ -4,7 +4,7 @@
         <style>
             #myHeader{
                 background-color: dodgerblue;
-                width: 500px; <!-- change to percentage of screen rather than pixels? -->
+                width: 500px;
                 color: black;
                 padding: 20px;
                 margin: 20px;

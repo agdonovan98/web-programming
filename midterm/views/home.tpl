@@ -1,6 +1,6 @@
 <html>
     <head>
-    %include header
+    %include header_mid
         <style>
             #myHeader{
                 background-color: dodgerblue;
@@ -34,7 +34,7 @@
     </head>
 
     <body>
-        %include banner
+        %include banner_mid
         <div class="container-fluid">
             <div class="row">
                 <div class="col"><h1 id="myHeader"><span class="material-icons md-48">face</span> The Basics</h1>

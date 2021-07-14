@@ -1,4 +1,5 @@
-<div class="jumbotron text-center bg-primary my-0">
-  <h1>Austin's Homepage</h1>
-  <p>Welcome, and enjoy your stay!</p>
+<div class="jumbotron text-center">
+  <h1>My List of Things To Do</h1>
+  <p>A little task manager</p> 
+  <img src="/static/the_boat.png" class="rounded-lg" alt="The boat that causes a lot of my todos..."/>
 </div>

@@ -17,9 +17,13 @@ def get_todo_list():
 
     return template("todo_list", items=items)
 
+@route("/midterm")
+def get_index():
+    return template("home_mid")
+
 @route("/assignment5")
 def get_index():
-    return template("home")
+    return template("home_new")
 
 @route("/data")
 def get_data():
